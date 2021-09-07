@@ -7,4 +7,4 @@ To compile:
 
 To run:
 
-./Root2Rad rootfile.root
+      ./Root2Rad rootfile.root
